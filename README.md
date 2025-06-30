@@ -1,7 +1,6 @@
 
 # 📊 Banking Customer Churn Analysis & Modeling
 
-![Bank Image](https://m.economictimes.com/thumb/msid-100281493,width-1200,height-900,resizemode-4,imgsize-14062/banks-request-rbi-for-more-time-for-new-loan-provisioning-system.jpg)
 
 This project provides an in-depth analysis of banking customer churn. The primary goal is to understand the factors that lead customers to leave the bank and to build a predictive machine learning model that can identify customers at risk of churning.
 
